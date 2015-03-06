@@ -1,9 +1,3 @@
-## Welcome to new uploaded test##
+The OpenShift `diy` cartridge documentation can be found at:
 
-you juste have to create a diy cartridge and push the git 
-
-test for uploaded file on servlet
-
-### Ce fichier a été réalisé avec markdown ###
-
-vous avez juste à ajouter une cartouche diy sur openshift en push le git!!
+http://openshift.github.io/documentation/oo_cartridge_guide.html#diy
